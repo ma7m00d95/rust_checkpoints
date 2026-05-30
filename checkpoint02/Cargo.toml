@@ -1,0 +1,18 @@
+[workspace]
+members = [
+    "check_user_name",
+    "count_factorial_steps",
+    "dress_code",
+    "get_document_id",
+    "lucas_number",
+    "matrix_determinant",
+    "nextprime",
+    "order_books",
+    "own_and_return",
+    "previousprime",
+    "prime_checker",
+    "queens",
+    "reverse_it",
+    "rot21",
+    "scytale_decoder"
+]

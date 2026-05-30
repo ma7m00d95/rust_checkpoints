@@ -1,0 +1,25 @@
+[workspace]
+members = [
+    "blood_types_s",
+    "car_rental",
+    "check_user_name",
+    "counting_words",
+    "dress_code",
+    "drop_the_blog",
+    "format_me",
+    "get_document_id",
+    "inv_pyramid",
+    "lunch_queue",
+    "matrix_display",
+    "moving_targets",
+    "negative_spelling",
+    "nextprime",
+    "office_worker",
+    "organize_garage",
+    "partial_sums",
+    "previousprime",
+    "queens",
+    "reverse_it",
+    "rpn",
+    "scytale_decoder"
+]

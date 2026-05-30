@@ -1,0 +1,12 @@
+[workspace]
+members = [
+    "counting_words",
+    "insertion_sort",
+    "inv_pyramid",
+    "matrix_multiplication",
+    "min_and_max",
+    "partial_sums",
+    "reverse_it",
+    "rpn",
+    "smallest"
+]
